@@ -34,7 +34,7 @@
 <main>
   <h1>Hello {name}!</h1>
   <h2>{message}</h2>
-  <h3>Change me!</h3>
+  <h3>You have been changed</h3>
   <p>
     Visit the
     <a href="https://svelte.dev/tutorial">Svelte tutorial</a>
